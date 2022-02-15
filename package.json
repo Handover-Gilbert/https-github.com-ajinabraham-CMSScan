@@ -29,6 +29,6 @@
     "url": "https://github.com/demersdesigns/sketch-batch-create-symbols.git"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.10.1"
+    "@babel/polyfill": "^7.12.1"
   }
 }
